@@ -1,6 +1,6 @@
 1. [Tetris](#Tetris)
 2. [Snake](#Snake)
-3. [Tank] (#Tank)
+3. [Tank](#Tank)
 4. [Cron](#Cron)
 
 
