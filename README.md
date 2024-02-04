@@ -1,6 +1,6 @@
-1. [Tetris] (#Tetris)
+1. [Tetris](#Tetris)
 2. [Snake](#Snake)
-3. [Cron](#Cron job)
+3. [Cron](#Cron)
 
 
 # Tetris
@@ -9,7 +9,7 @@
 # Snake
 ![](https://r96922081.github.io/images/snake.png)
 
-# Cron job
+# Cron
 
 Usage: 
 ![](https://r96922081.github.io/images/cron1.png)
