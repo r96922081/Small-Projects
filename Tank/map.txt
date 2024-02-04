@@ -1,0 +1,6 @@
+<class 'game_component.tank'>, enemy_tank, 60, 60;
+<class 'game_component.tank'>, player_tank, 321, 42;
+<class 'game_component.tank'>, enemy_tank, 268, 176;
+<class 'game_component.tank'>, enemy_tank, 164, 208;
+<class 'game_component.tank'>, enemy_tank, 226, 116;
+<class 'game_component.tank'>, enemy_tank, 230, 276;

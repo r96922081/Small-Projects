@@ -1,0 +1,3 @@
+<class 'game_component.tank'>, player_tank, 10, 10;
+<class 'game_component.tank'>, enemy_tank, 60, 60;
+<class 'game_component.tank'>, enemy_tank, 90, 90;
