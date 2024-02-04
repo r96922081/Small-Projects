@@ -1,0 +1,38 @@
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Release\Tetris.TetrisForm.resources
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Users\Mojo\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Release\Tetris.pdb
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\obj\Release\Tetris.TetrisForm.resources
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Users\Mojo\Documents\GitHub\Tetris\Tetris\obj\Release\Tetris.pdb
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\obj\Release\Tetris.csprojAssemblyReference.cache
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\obj\Release\Tetris.TetrisForm.resources
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.cache
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Storage\GitHub\Game Programming\Tetris\Tetris\obj\Release\Tetris.pdb
+D:\Github\Game-Programming\Tetris\Tetris\bin\Release\Tetris.exe.config
+D:\Github\Game-Programming\Tetris\Tetris\bin\Release\Tetris.exe
+D:\Github\Game-Programming\Tetris\Tetris\bin\Release\Tetris.pdb
+D:\Github\Game-Programming\Tetris\Tetris\obj\Release\Tetris.csproj.AssemblyReference.cache
+D:\Github\Game-Programming\Tetris\Tetris\obj\Release\Tetris.TetrisForm.resources
+D:\Github\Game-Programming\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+D:\Github\Game-Programming\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.cache
+D:\Github\Game-Programming\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+D:\Github\Game-Programming\Tetris\Tetris\obj\Release\Tetris.exe
+D:\Github\Game-Programming\Tetris\Tetris\obj\Release\Tetris.pdb
